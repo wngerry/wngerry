@@ -7,10 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gerry william nanlohy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gerry william nanlohy" height="30" width="40" /></a>
-<a href="https://fb.com/gerry william" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gerry william" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gerry-william-nanlohy-7aa753195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gerry-william-nanlohy-7aa753195/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/gerry.william.92/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/gerry.william.92/" height="30" width="40" /></a>
 <a href="https://instagram.com/@gerry_william__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@gerry_william__" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/gwen." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gwen." height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc0xjuc_c5tlef_q6xoeiviq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc0xjuc_c5tlef_q6xoeiviq" height="30" width="40" /></a>
 <a href="https://discord.gg/gwen.#9492" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gwen.#9492" height="30" width="40" /></a>
 </p>
 
@@ -20,4 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gwentzy&show_icons=true&locale=en&layout=compact" alt="gwentzy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gwentzy&show_icons=true&locale=en" alt="gwentzy" /></p>
-
