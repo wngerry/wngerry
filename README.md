@@ -1,7 +1,7 @@
 ### Hi there, I'm GERRY WILLIAM NANLOHY 👋 
 ## I'm a Computer Science Student at BINUS University
 
-<img algin="right" src="https://github.com/GWENTzy/GWENTzy/blob/main/code.gif" height="500vh" width="500vw">
+<img algin="right" src="https://github.com/GWENTzy/GWENTzy/blob/main/WhatsApp-Image-2020-09-24-at-3.47.58-PM-1.jpeg" height="500vh" width="800vw">
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to any projects
