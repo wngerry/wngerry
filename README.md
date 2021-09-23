@@ -1,4 +1,4 @@
-### Hi there, I'm GERRY WILLIAM NANLOHY 👋 
+## Hi there, I'm GERRY WILLIAM NANLOHY 👋 
 ## I'm a Computer Science Student at BINUS University
 
 <img align="center" src="https://github.com/GWENTzy/GWENTzy/blob/main/WhatsApp-Image-2020-09-24-at-3.47.58-PM-1.jpeg" height="500vh" width="800vw">
