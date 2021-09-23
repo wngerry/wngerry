@@ -1,22 +1,24 @@
-<h1 align="center">Hi 👋, I'm Gerry William Nanlohy</h1>
-<h3 align="center">Computer Science Student at BINUS University</h3>
+### Hi there, I'm GERRY WILLIAM NANLOHY 👋 
+## I'm a Computer Science Student at BINUS University
 
-- 🌱 I’m currently learning **C Language**
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2021 Goals: Contribute more to any projects
+- ⚡ Fun fact: I love to draw , play some competitive games such as Valorant and Mobile Legends: Bang Bang and I've experienced on play basketball, volleyball and soccer.
 
-- 📫 How to reach me **nanlohygerry@gmail.com**
+<img algin="center" src="https://github.com/GWENTzy/GWENTzy/blob/main/code.gif" height="555vh" width="10000vw">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gerry-william-nanlohy-7aa753195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gerry-william-nanlohy-7aa753195/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/gerry.william.92/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/gerry.william.92/" height="30" width="40" /></a>
-<a href="https://instagram.com/@gerry_william__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@gerry_william__" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc0xjuc_c5tlef_q6xoeiviq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc0xjuc_c5tlef_q6xoeiviq" height="30" width="40" /></a>
-<a href="https://discord.gg/gwen.#9492" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gwen.#9492" height="30" width="40" /></a>
-</p>
+<img src="https://github.com/GWENTzy/GWENTzy/blob/main/pinklove.gif" width="30px">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+### Connect with me : 
+<img src="https://github.com/JayaByu/JayaByu/blob/main/touchem.gif" wdith="60px" height="60px">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gwentzy&show_icons=true&locale=en&layout=compact" alt="gwentzy" /></p>
+[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/085236432452) [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nanlohygerry@gmail.com) [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gerry.nanlohy@binus.ac.id) [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jybyu._.8/) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerry-william-nanlohy-7aa753195/) [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC0xJuc_C5tlEf_Q6xoeiViQ)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gwentzy&show_icons=true&locale=en" alt="gwentzy" /></p>
+### 📈 Github Stats
+
+<a href="https://github.com/GWENTzy">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=GWENTzy&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true"/>
+
+<a href="https://github.com/GWENTzy">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GWENTzy&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true)"/>
+</a>
