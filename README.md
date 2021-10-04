@@ -1,4 +1,4 @@
-## Hi there, I'm GERRY WILLIAM NANLOHY 👋 
+## Hi There, I'm GERRY WILLIAM NANLOHY 👋 
 ## I'm a Computer Science Student at BINUS University
 
 <img align="center" src="https://github.com/GWENTzy/GWENTzy/blob/main/BINUS%20University%20%40MALANG.jpeg" height="500vh" width="800vw">
@@ -18,6 +18,7 @@
 ### Other Skills <img align="right" src="https://github.com/GWENTzy/GWENTzy/blob/main/jett-valorant.gif">
 
 ![](https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400) ![](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15) ![](https://img.shields.io/badge/Adobe-Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe-Premiere%20Pro&labelColor=2f2f5b&logoWidth=15) ![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+
 
 
 
