@@ -1,4 +1,4 @@
-# GERRY WILLIAM NANLOHY aka GWEN
+# GERRY WILLIAM NANLOHY
 ## An Computer Science Student at Binus University
 
 🌱 I’m currently learning to Java for OOP, Phyton for Machine Learning and Swift Programming Language.
