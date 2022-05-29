@@ -29,3 +29,13 @@
 <a href="https://github.com/GWENTzy">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GWENTzy&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true)"/>
 </a>
+
+  <hr>
+  
+  <a href="https://github.com/GWENTzy">
+  <img height=80% widht=80% src="https://github-readme-stats.vercel.app/api/top-langs?username=GWENTzy&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=GWENTzy&show_icons=true&theme=tokyonight">
+  </a>
+</p>
+
+<hr>
