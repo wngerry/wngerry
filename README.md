@@ -1,5 +1,5 @@
 # GERRY WILLIAM NANLOHY
-## An Computer Science Student at Binus University |  Binusian Gaming Creative Team Lead
+## Computer Science Student at Binus University |  Binusian Gaming Creative Team Lead
 
 Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
