@@ -1,9 +1,9 @@
 # GERRY WILLIAM NANLOHY
 ## An Computer Science Student at Binus University |  Binusian Gaming Creative Team Lead
 
-🌱 I’m currently learning to Java for OOP, Phyton for Machine Learning and Swift Programming Language.
-⚡ Artificial Intelligence, Computer Network, Software Engineering, UI/UX, Illustration & Pixel Art Enthusiasm
-🥅 2022 Goals: Contribute more to any projects and get the job
+- 🌱 I’m currently learning to Java for OOP, Phyton for Machine Learning and Swift Programming Language.
+- ⚡ Artificial Intelligence, Computer Network, Software Engineering, UI/UX, Illustration & Pixel Art Enthusiasm
+- 🥅 2022 Goals: Contribute more to any projects and get the job
 
 ### Connect With Me
 
