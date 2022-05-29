@@ -1,7 +1,7 @@
 # GERRY WILLIAM NANLOHY
 ## An Computer Science Student at Binus University |  Binusian Gaming Creative Team Lead
 
-<h2 align="center"> Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 - 🌱 I’m currently learning to Java for OOP, Phyton for Machine Learning and Swift Programming Language
 
