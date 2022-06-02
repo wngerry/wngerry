@@ -1,7 +1,7 @@
 # GERRY WILLIAM NANLOHY
 ## Computer Science Student at Binus University |  Binusian Gaming Creative Team Lead
 
-Hello There <img src="https://github.com/GWENTzy/GWENTzy/blob/main/CattyHello.gif"></h2>
+<img src="https://github.com/GWENTzy/GWENTzy/blob/main/CattyHello.gif" width="30px"></h2>
 
 - 🌱 I’m currently learning to Java for OOP, Phyton for Machine Learning and Swift Programming Language
 
