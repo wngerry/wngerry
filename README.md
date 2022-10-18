@@ -3,9 +3,9 @@
 
 <img src="https://github.com/GWENTzy/GWENTzy/blob/main/CattyHello.gif"></h2>
 
-- 🌱 I’m currently learning to Java for OOP, Python for Machine Learning and Swift Programming Language
+- 🌱 I’m currently learning to Artificial Intelligence, Computer Vision, Computer Network, Deep Learning, Software Engineering, and UI/UX 
 
-- ⚡ Artificial Intelligence, Computer Network, Software Engineering, UI/UX, Illustration & Pixel Art Enthusiasm
+- ⚡ Illustration & Traditional Art Enthusiasm
 
 - 🥅 2022 Goals: Contribute more to any projects and get the job
 
