@@ -3,7 +3,7 @@
 
 <img src="https://github.com/GWENTzy/GWENTzy/blob/main/CattyHello.gif"></h2>
 
-- 🌱 I’m currently learning to Artificial Intelligence, Computer Vision, Computer Network, Deep Learning, Software Engineering, and UI/UX 
+- 🌱 I’m currently learning to Artificial Intelligence, Computer Vision, Deep Learning, Software Engineering, and UI/UX 
 
 - ⚡ Illustration & Traditional Art Enthusiasm
 
