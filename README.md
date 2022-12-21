@@ -5,7 +5,7 @@
 
 - ⚡ Illustration & Traditional Art Enthusiasm
 
-- 🥅 2022 Goals: Contribute more to any projects and get the job
+- 🥅 2023 Goals: Contribute more to any projects and get the job
 
 ### Connect With Me
 
