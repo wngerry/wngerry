@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning to API's, Artificial Intelligence, Computer Vision, Deep Learning, Hardware Engineering, Machine Learning & UI/UX 
 
-- ⚡ Illustration & Traditional Art Enthusiasm
+- ⚡ Illustration & Renaissance Art Enthusiasm
 
 - 🥅 2023 Goals: Contribute more to any projects and get the job
 
