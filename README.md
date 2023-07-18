@@ -1,9 +1,9 @@
 # GERRY WILLIAM NANLOHY
 ## Computer Science Student at Binus University |  Binusian Gaming Creative Team
 
-- 🌱 I’m currently learning to API's, Artificial Intelligence, Computer Vision, Deep Learning, Hardware Engineering, Machine Learning & UI/UX 
+- 🌱 I’m currently learning to API's, Computer Vision, Machine Learning, Deep Learning, Hardware Engineering & UI/UX 
 
-- ⚡ Illustration & Renaissance Art Enthusiasm
+- ⚡ I'm an Renaissance Illustration Enthusiasm too
 
 - 🥅 2023 Goals: Contribute more to any projects and get the job
 
