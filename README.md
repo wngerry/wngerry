@@ -1,5 +1,5 @@
 # GERRY WILLIAM NANLOHY
-## Computer Science Student at Binus University |  Intelligent System Majoring
+## Computer Science Student at Binus University |  Intelligent System Major
 
 - 🌱 I am interested in the technology industry, so currently I am studying Computer Science at Bina Nusantara University with interested in Intelligent System, Data Analyst,  Hardware Engineering, Mobile Programming & UI/UX.
 
