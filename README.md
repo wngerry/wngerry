@@ -1,5 +1,5 @@
 # Hi, I'm GERRY WILLIAM NANLOHY
-## Fresh Graduate of Computer Science From BINUS University | Intelligent System Major | Ex-Intern at Jawa Timur Park & City Guide 911FM Radio
+## 🎓 Fresh Graduate of Computer Science from BINUS University | Intelligent System Major | Ex-Intern at Jawa Timur Park & City Guide 911FM Radio
 
 - 🌱 I am interested in the technology industry. I learn a lot about Intelligent System, Data Analyst, Hardware Engineering, System Analyst & UI/UX.
 
