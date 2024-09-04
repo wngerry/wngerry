@@ -3,7 +3,7 @@
 
 - 🌱 I am interested in the technology industry. I learn a lot about Intelligent System, Data Analyst, Hardware Engineering, System Analyst & UI/UX.
 
-- ⚡ I love graphic design and illustration too, especially in Renaissance Illustration. Since high school, I have been freelancing in the graphic design & illustration things.
+- ⚡ I love graphic design and illustration too. Since high school, I have been freelancing in the graphic design & illustration things.
 
 - 🥅 2024 Goals: Contribute more to any projects and get the job!!!
 
