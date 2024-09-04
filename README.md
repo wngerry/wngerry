@@ -13,8 +13,8 @@
 
 <hr>
  <a href="https://github.com/hygerry">
- <img height=80% widht=80% src="https://github-readme-stats.vercel.app/api/top-langs?username=hygerry&show_icons=true&theme=tokyonight">
- <img src="https://github-readme-stats.vercel.app/api?username=hygerry&show_icons=true&theme=tokyonight">
+ <img height=80% widht=80% src="https://github-readme-stats.vercel.app/api/top-langs?username=wngerry&show_icons=true&theme=tokyonight">
+ <img src="https://github-readme-stats.vercel.app/api?username=wngerry&show_icons=true&theme=tokyonight">
  </a>
  </p>
 <hr>
