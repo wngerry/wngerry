@@ -1,7 +1,8 @@
 # Hi, I'm GERRY WILLIAM NANLOHY
 ## 🎓 Bachelor of Computer Science from BINUS University | Intelligent System Major | Ex-Intern at Jawa Timur Park Group & City Guide 911FM Radio
 
-- 🌱 I am interested in the technology industry. I learn a lot about Intelligent System, Data Analyst, Hardware Engineering, System Analyst & UI/UX.
+- 🌱 Interesting in Business Analyst, Data Management, Hardware Engineering, UI/UX and System Analyst.
+      Quick to adapt, eager to learn new challenges, strong in creativity, strategy, analytical and problem-solving skills.
 
 - ⚡ I love graphic design and illustration too. Since high school, I have been freelancing in the graphic design & illustration things.
 
