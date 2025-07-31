@@ -1,8 +1,8 @@
 # Hi, I'm GERRY WILLIAM NANLOHY
-## 🎓 Bachelor of Computer Science from Bina Nusantara University | Intelligent System Major | Ex-Intern at Jawa Timur Park Group & City Guide 911FM Radio
+## 🎓 B. CS | Ex-Intern at Jawa Timur Park Group & City Guide 911FM
 
-- 🌱 Interesting in Business Analyst, Data Management, Hardware Engineering, UI/UX and System Analyst.
-      Quick to adapt, eager to learn new challenges, strong in creativity, strategy, analytical and problem-solving skills.
+- 🌱 Computer Science graduate majoring in Intelligent Systems, with interests in Business Analysis, Data Management, Software Engineer, UI/UX and System Analysis.
+  Quick to adapt, loves to keep learning and always excited for new challenges. Combine creativity with strategic and analytical thinking to solve problems and provide innovative solutions based on data.
 
 - ⚡ I love graphic design and illustration too. Since high school, I have been freelancing in the graphic design & illustration things.
 
