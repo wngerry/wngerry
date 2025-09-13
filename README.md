@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gerry William Nanlohy</h1>
-<h3 align="center">Computer Science graduate majoring in Intelligent Systems, with interests in Data Management, Software Engineering and UI/UX.</h3>
+<h3 align="center">🎓 B. CS | Ex-Intern at Jawa Timur Park Group & City Guide 911FM</h3>
+
+<h3 align="left">Computer Science graduate majoring in Intelligent Systems, with interests in Data Management, Software Engineering and UI/UX. I am an adaptable and detail-oriented individual with a strong passion for learning and enthusiasm for new challenges. I consistently combine creativity with strategic and analytical thinking to develop innovative solutions.</h3>
 
 - 🌱 I’m currently learning **Net Framework**
 
