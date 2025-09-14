@@ -21,9 +21,7 @@
 
 <h3 align="left">Frontend Development</h3>
 
-<h3 align="left">Frontend Development</h3>
-
-<h3 align="left">Mobile App Development</h3>
+![Static Badge](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&labelColor=black) ![Static Badge](https://img.shields.io/badge/angular-0F0F11?style=for-the-badge&logo=angular&labelColor=black)
 
 <h3 align="left">AI/ML</h3>
 
@@ -42,6 +40,8 @@
 ![Static Badge](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&labelColor=black) ![Static Badge](https://img.shields.io/badge/ionic-3880FF?style=for-the-badge&logo=ionic&labelColor=black)
 
 <h3 align="left">Software Tools</h3>
+
+![Static Badge](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&labelColor=black) ![Static Badge](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&labelColor=black)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wngerry&show_icons=true&locale=en" alt="wngerry" /></p>
