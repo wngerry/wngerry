@@ -17,6 +17,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&labelColor=black)
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wngerry&show_icons=true&locale=en" alt="wngerry" /></p>
 
