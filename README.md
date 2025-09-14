@@ -16,12 +16,19 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerrywilliamnanlohy/)
 
 <h3 align="left">Programming Languages</h3>
+
 ![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&labelColor=black)
+
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&labelColor=black)
+
 ![Static Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&labelColor=black)
+
 ![Static Badge](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&labelColor=black)
+
 ![Static Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=black)
+
 ![Static Badge](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&labelColor=black)
+
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&labelColor=black)
 
 <h3 align="left">Frontend Development</h3>
