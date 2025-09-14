@@ -5,7 +5,7 @@
 
 - ⚡ I’m currently learning **Net Framework**.
 
-- 👨‍💻 All of my projects are available at 
+- 👨‍💻 All of my projects are available at [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://drive.google.com/file/d/14G8eO_T3hY9GW1ve8icMEbpOWu8somjc/view?usp=sharing)
 
 - 📄 Know about my experiences
 
