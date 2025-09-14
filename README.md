@@ -9,7 +9,9 @@
 
 - 📄 Know about my experiences   [![](https://img.shields.io/badge/My-Portfolio-D14836?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1EgBQ_QqjisvHnpmIcBQQiyjxmQmtcVqD/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3> [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nanlohygerry@gmail.com) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerrywilliamnanlohy/)
+<h3 align="left">Connect with me:</h3>
+
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nanlohygerry@gmail.com) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerrywilliamnanlohy/)
 
 <h3 align="left">Programming Languages</h3>
 
