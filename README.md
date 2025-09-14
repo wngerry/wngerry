@@ -31,7 +31,11 @@
 
 <h3 align="left">Database</h3>
 
+![Static Badge](https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&labelColor=black)
+
 <h3 align="left">Backend as a Service(BaaS)</h3>
+
+![Static Badge](https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&labelColor=black) ![Static Badge](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&labelColor=black)
 
 <h3 align="left">Framework</h3>
 
