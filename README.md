@@ -21,7 +21,7 @@
 
 <h3 align="left">Framework</h3>
 
-![Static Badge](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&labelColor=black) ![Static Badge](https://img.shields.io/badge/ionic-3880FF?style=for-the-badge&logo=ionic&labelColor=black) ![Static Badge](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&labelColor=black) ![Static Badge](https://img.shields.io/badge/angular-0F0F11?style=for-the-badge&logo=angular&labelColor=black)
+![Static Badge](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&labelColor=black) ![Static Badge](https://img.shields.io/badge/ionic-3880FF?style=for-the-badge&logo=ionic&labelColor=black) ![Static Badge](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&labelColor=black) ![Static Badge](https://img.shields.io/badge/angular-0F0F11?style=for-the-badge&logo=angular&labelColor=black) ![Static Badge](https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=.net&labelColor=black)
 
 <h3 align="left">AI/ML</h3>
 
