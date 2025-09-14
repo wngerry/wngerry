@@ -47,6 +47,6 @@
  </p>
 <hr>
 
-<p>&nbsp;<img align="center" height=80% widht=80% src="https://github-readme-stats.vercel.app/api?username=wngerry&show_icons=true&locale=en" alt="wngerry" /></p>
-<p><img align="center" height=80% widht=80% src="https://github-readme-streak-stats.herokuapp.com/?user=wngerry&" alt="wngerry" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=wngerry&show_icons=true&locale=en" alt="wngerry" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=wngerry&" alt="wngerry" /></p>
 
