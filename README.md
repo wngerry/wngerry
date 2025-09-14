@@ -11,9 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nanlohygerry@gmail.com)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerrywilliamnanlohy/)
+ 
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nanlohygerry@gmail.com) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerrywilliamnanlohy/)
 
 <h3 align="left">Programming Languages</h3>
 
@@ -39,13 +38,4 @@
 
 ![Static Badge](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&labelColor=black) ![Static Badge](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&labelColor=black) ![Static Badge](https://img.shields.io/badge/diagrams.net-F08705?style=for-the-badge&logo=diagrams.net&labelColor=black) ![Static Badge](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&labelColor=black) ![Static Badge](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&labelColor=black) ![Static Badge](https://img.shields.io/badge/googleanalytics-E37400?style=for-the-badge&logo=googleanalytics&labelColor=black) ![Static Badge](https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&labelColor=black) ![Static Badge](https://img.shields.io/badge/googlesheets-34A853?style=for-the-badge&logo=googlesheets&labelColor=black) ![Static Badge](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&labelColor=black)
 
-<hr>
- <a href="https://github.com/hygerry">
- <img height=80% widht=80% src="https://github-readme-stats.vercel.app/api/top-langs?username=wngerry&show_icons=true&theme=tokyonight">
- <img src="https://github-readme-stats.vercel.app/api?username=wngerry&show_icons=true&theme=tokyonight">
- </a>
- </p>
-<hr>
-
 <p><img src="https://github-readme-stats.vercel.app/api?username=wngerry&show_icons=true&locale=en" alt="wngerry" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=wngerry&" alt="wngerry" /></p>
-
