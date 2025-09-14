@@ -5,11 +5,11 @@
 
 - ⚡ I’m currently learning ![Static Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&labelColor=black) ![Static Badge](https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=.net&labelColor=black)
 
-- 👨‍💻 All of my projects are available at  [![](https://img.shields.io/badge/My-CV-D14836?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/14G8eO_T3hY9GW1ve8icMEbpOWu8somjc/view?usp=sharing)
+- 👨‍💻 All of my projects are available at  [![](https://img.shields.io/badge/MyCV-D14836?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/14G8eO_T3hY9GW1ve8icMEbpOWu8somjc/view?usp=sharing)
 
-- 📄 Know about my experiences   [![](https://img.shields.io/badge/My-Portfolio-D14836?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1EgBQ_QqjisvHnpmIcBQQiyjxmQmtcVqD/view?usp=sharing)
+- 📄 Know about my experiences   [![](https://img.shields.io/badge/MyPortfolio-D14836?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1EgBQ_QqjisvHnpmIcBQQiyjxmQmtcVqD/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Me</h3>
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nanlohygerry@gmail.com) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerrywilliamnanlohy/)
 
