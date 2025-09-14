@@ -27,7 +27,7 @@
 
 <h3 align="left">AI/ML</h3>
 
-<h3 align="left">Data Visualization</h3>
+![Static Badge](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&labelColor=black) ![Static Badge](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&labelColor=black) ![Static Badge](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&labelColor=black) ![Static Badge](https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&labelColor=black)
 
 <h3 align="left">Database</h3>
 
@@ -38,6 +38,8 @@
 ![Static Badge](https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&labelColor=black) ![Static Badge](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&labelColor=black)
 
 <h3 align="left">Framework</h3>
+
+![Static Badge](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&labelColor=black) ![Static Badge](https://img.shields.io/badge/ionic-3880FF?style=for-the-badge&logo=ionic&labelColor=black)
 
 <h3 align="left">Software Tools</h3>
 
