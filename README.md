@@ -3,7 +3,7 @@
 
 - 🌱 Computer Science graduate majoring in Intelligent Systems, with interests in Data Management, Software Engineering and UI/UX. I am an adaptable and detail-oriented individual with a strong passion for learning and enthusiasm for new challenges. I consistently combine creativity with strategic and analytical thinking to develop innovative solutions.
 
-- ⚡ I’m currently learning ![Static Badge](https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=.net&labelColor=black)
+- ⚡ I’m currently learning ![Static Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&labelColor=black) ![Static Badge](https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=.net&labelColor=black)
 
 - 👨‍💻 All of my projects are available at  [![](https://img.shields.io/badge/My-CV-D14836?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/14G8eO_T3hY9GW1ve8icMEbpOWu8somjc/view?usp=sharing)
 
