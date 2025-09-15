@@ -41,7 +41,6 @@
  <a href="https://github.com/hygerry">
  <img height=80% widht=80% src="https://github-readme-stats.vercel.app/api/top-langs?username=wngerry&show_icons=true&theme=tokyonight">
  <img src="https://github-readme-stats.vercel.app/api?username=wngerry&show_icons=true&theme=tokyonight">
-   <img src="https://github-readme-stats.vercel.app/api?username=wngerry&show_icons=true&locale=en" alt="wngerry" />
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wngerry&" alt="wngerry" />
  </a>
  </p>
