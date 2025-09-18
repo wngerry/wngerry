@@ -15,11 +15,11 @@
 
 <h3 align="left">Programming Languages</h3>
 
-![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&labelColor=black) ![Static Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&labelColor=black) ![Static Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&labelColor=black) ![Static Badge](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&labelColor=black) ![Static Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=black) ![Static Badge](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&labelColor=black) ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&labelColor=black)
+![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&labelColor=black) ![Static Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&labelColor=black) ![Static Badge](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&labelColor=black) ![Static Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=black) ![Static Badge](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&labelColor=black) ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&labelColor=black)
 
 <h3 align="left">Framework</h3>
 
-![Static Badge](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&labelColor=black) ![Static Badge](https://img.shields.io/badge/ionic-3880FF?style=for-the-badge&logo=ionic&labelColor=black) ![Static Badge](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&labelColor=black) ![Static Badge](https://img.shields.io/badge/angular-0F0F11?style=for-the-badge&logo=angular&labelColor=black) ![Static Badge](https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=.net&labelColor=black)
+![Static Badge](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&labelColor=black) ![Static Badge](https://img.shields.io/badge/ionic-3880FF?style=for-the-badge&logo=ionic&labelColor=black) ![Static Badge](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&labelColor=black) ![Static Badge](https://img.shields.io/badge/angular-0F0F11?style=for-the-badge&logo=angular&labelColor=black)
 
 <h3 align="left">AI/ML</h3>
 
