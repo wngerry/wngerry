@@ -31,7 +31,7 @@
 
 <h3 align="left">Backend as a Service(BaaS)</h3>
 
-![Static Badge](https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&labelColor=black) ![Static Badge](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&labelColor=black)
+![Static Badge](https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&labelColor=black)
 
 <h3 align="left">Software Tools</h3>
 
