@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gerry William Nanlohy</h1>
 <h3 align="center">🎓 B. CS | Ex-Intern at Jawa Timur Park Group & City Guide 911FM</h3>
 
-- 🌱 Computer Science graduate majoring in Intelligent Systems, with interests in Data Management, Software Engineering and UI/UX. I am an adaptable and detail-oriented individual with a strong passion for learning and enthusiasm for new challenges. I consistently combine creativity with strategic and analytical thinking to develop innovative solutions.
+- 🌱 Computer Science graduate majoring in Intelligent Systems, with strong interests in Data Management, Software Engineering, and UI/UX. Detail-oriented, adaptable and highly motivated to keep learning and growing in the dynamic field of technology by combining creativity with strategic and analytical thinking.
 
 - ⚡ I’m currently learning ![Static Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&labelColor=black) ![Static Badge](https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=.net&labelColor=black)
 
