@@ -5,9 +5,9 @@
 
 - ⚡ I’m currently learning ![Static Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&labelColor=black) ![Static Badge](https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=.net&labelColor=black)
 
-- 👨‍💻 All of my projects are available at  [![](https://img.shields.io/badge/MyPortfolio-D14836?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1pr07PUVAIAE3JUC-wk1RZV5g9q18qhXz/view?usp=sharing)
+- 👨‍💻 All of my projects are available at  [![](https://img.shields.io/badge/MyPortfolio-D14836?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1z2fiN9JQk-VEGbMBb9K6l2n-n2Js8jSD/view?usp=sharing)
 
-- 📄 Know about my experiences   [![](https://img.shields.io/badge/MyCV-D14836?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1ecqBewMkKCHkRvtZf2n_IJ6-HPPUZAeG/view?usp=sharing)
+- 📄 Know about my experiences   [![](https://img.shields.io/badge/MyCV-D14836?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/18rB08600rwBeCuyvRWFliuhge-aCVgJm/view?usp=sharing)
 
 <h3 align="left">Connect with Me</h3>
 
