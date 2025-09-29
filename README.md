@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at  [![](https://img.shields.io/badge/MyPortfolio-D14836?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1z2fiN9JQk-VEGbMBb9K6l2n-n2Js8jSD/view?usp=sharing)
 
-- 📄 Know about my experiences   [![](https://img.shields.io/badge/MyCV-D14836?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/18rB08600rwBeCuyvRWFliuhge-aCVgJm/view?usp=sharing)
+- 📄 Know about my experiences   [![](https://img.shields.io/badge/MyCV-D14836?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1dgBMvvYobblTLUMKqXGO4W1iNVZAwOI-/view?usp=sharing)
 
 <h3 align="left">Connect with Me</h3>
 
